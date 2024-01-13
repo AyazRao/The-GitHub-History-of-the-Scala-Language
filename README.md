@@ -1,8 +1,6 @@
 # The-GitHub-History-of-the-Scala-Language
 Find the true Scala experts by exploring its development history in Git and GitHub.
 
-![projectimage](images/redpopcorn.jpg)
-
 ## Getting Started
 
 ```bash
